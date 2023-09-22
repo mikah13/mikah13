@@ -1,6 +1,3 @@
-# Hi, it's Mikah 👋
-
-
 ## About me 🧑
 - ⚡React Software Developer.
 - 🌱Learning full-stack stuff

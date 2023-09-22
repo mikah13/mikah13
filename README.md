@@ -3,7 +3,7 @@
 - 🌱Learning full-stack stuff
 - 🔭Hungry to try out new things
 - **My Interests** : Web dev | OpenAI | SaaS ideas
-- **Web site**: [mike-hoang-dev](https://mike-hoang-dev.vercel.app)
+- **Website**: [mike-hoang-dev](https://mike-hoang-dev.vercel.app)
 
 
 

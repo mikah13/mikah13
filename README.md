@@ -1,7 +1,7 @@
 ## About me 🧑
 - ⚡ Full-stack Software Developer.
 - 🔭 Hungry to try out new things
-- **My Interests** : New technology | AI | SaaS ideas
+- **My Interests** : Web technologies | AI | SaaS ideas
 - **Website**: [mike-hoang-dev](https://mike-hoang-dev.vercel.app)
 
 

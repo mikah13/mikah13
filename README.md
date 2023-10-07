@@ -18,5 +18,5 @@
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=mikah13&count_private=true&show_icons=true&theme=radical" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikah13&show_icons=true&theme=radical&layout=compact" />
-[![mikah13's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=mikah13)](https://github.com/mikah13)
+[![mikah13's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=mikah13&theme=dark)](https://github.com/mikah13)
   

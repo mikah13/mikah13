@@ -1,8 +1,7 @@
 ## About me 🧑
-- ⚡React Software Developer.
-- 🌱Learning full-stack stuff
-- 🔭Hungry to try out new things
-- **My Interests** : Web dev | OpenAI | SaaS ideas
+- ⚡ Full-stack Software Developer.
+- 🔭 Hungry to try out new things
+- **My Interests** : New technology | AI | SaaS ideas
 - **Website**: [mike-hoang-dev](https://mike-hoang-dev.vercel.app)
 
 

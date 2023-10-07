@@ -17,6 +17,6 @@
 ## My stats ⚡
 <img align="left">![Leetcode Stats](https://leetcard.jacoblin.cool/mikah13)</img>
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=mikah13&count_private=true&show_icons=true&theme=radical" />
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikah13&show_icons=true&theme=radical&layout=compact" 
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikah13&show_icons=true&theme=radical&layout=compact" /> 
 
 

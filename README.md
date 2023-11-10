@@ -24,7 +24,6 @@
 <a href="mailto:anhminhhoang13@gmail.com">![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
 
 ## My stats ⚡
-[![](https://visitcount.itsvg.in/api?id=mikah13&label=Profile%20Views&icon=0&pretty=false)](https://visitcount.itsvg.in)
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=mikah13&count_private=true&show_icons=true&theme=radical" />
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikah13&show_icons=true&theme=radical&layout=compact" /> 
 

@@ -4,11 +4,10 @@
 - 📖 I also like reading tech-related blog posts
 - **My Interests** : 🌐 Web technologies | ✨ AI | 💡 SaaS ideas
 - **Website**: [mike-hoang-dev](https://mike-hoang-dev.vercel.app)
-- Favourite quote: 
 
-'''
-If You Fall Asleep Now, You Will Dream. If You Study Now, You Will Live Your Dream
-'''
+## Favourite quote:
+
+    If You Fall Asleep Now, You Will Dream. If You Study Now, You Will Live Your Dream 
 
 
 

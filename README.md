@@ -17,7 +17,6 @@
 
 ## Currently learning (2023):
 
-* [ ] Microservices Architecture
 * [ ] [Apache Kafka](https://kafka.apache.org/)
 * [ ] [AWS](https://aws.amazon.com/)
 * [ ] [Rust](https://www.rust-lang.org/)

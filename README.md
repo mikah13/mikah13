@@ -5,7 +5,7 @@
 - **My Interests** : 🌐 Web technologies | ✨ AI | 💡 SaaS ideas
 - **Website**: [mike-hoang-dev](https://mike-hoang-dev.vercel.app)
 
-## Favourite quote:
+## Favourite quote 📙
 
     If You Fall Asleep Now, You Will Dream. If You Study Now, You Will Live Your Dream 
 

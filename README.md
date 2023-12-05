@@ -3,7 +3,7 @@
 - 🔭 Hungry to try out new things
 - 📖 I also like reading tech-related blog posts
 - **My Interests** : 🌐 Web technologies | ✨ AI | 💡 SaaS ideas
-- **Website**: [mike-hoang-dev](https://mike-hoang-dev.vercel.app)
+- **Website**: [mikehoang.dev][(https://mike-hoang-dev.vercel.app](https://mikehoang.dev/))
 
 ## Favourite quote 📙
 

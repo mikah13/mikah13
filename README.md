@@ -38,8 +38,8 @@
 
 
 ## Connect 
-<a href="https://www.linkedin.com/in/mike-hoang-2907/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
-<a href="mailto:anhminhhoang13@gmail.com">![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
+<a href="https://www.linkedin.com/in/mike-hoang-2907/">![LinkedIn](https://img.shields.io/badge/linkedin-black?style=for-the-badge&logo=linkedin)</a>
+<a href="mailto:anhminhhoang13@gmail.com">![GMAIL](https://img.shields.io/badge/gmail-black?style=for-the-badge&logo=gmail)</a>
 
 ![](https://raw.githubusercontent.com/mikah13/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 

@@ -20,7 +20,7 @@
 ![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)
 ![Express](https://img.shields.io/badge/express-black?style=for-the-badge&logo=express)
 ![NestJS](https://img.shields.io/badge/nestjs-black?style=for-the-badge&logo=nestjs)
-![NextJS](https://img.shields.io/badge/nextjs-black?style=for-the-badge&logo=nextjs)
+![NextJS](https://img.shields.io/badge/next-black?style=for-the-badge&logo=next)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-black?style=for-the-badge&logo=tailwindcss)
 ![Django](https://img.shields.io/badge/django-black?style=for-the-badge&logo=django)
 
@@ -28,10 +28,6 @@
 ![MySQL](https://img.shields.io/badge/mysql-black?style=for-the-badge&logo=mysql)
 ![PostgreSQL](https://img.shields.io/badge/postgres-black?style=for-the-badge&logo=postgres)
 ![MongoDB](https://img.shields.io/badge/mongodb-black?style=for-the-badge&logo=mongodb)
-
-## Infrastructure
-![AWS](https://img.shields.io/badge/aws-black?style=for-the-badge&logo=aws)
-![Azure](https://img.shields.io/badge/azure-black?style=for-the-badge&logo=azure)
 
 ## Other technologies
 ![Prisma](https://img.shields.io/badge/prisma-black?style=for-the-badge&logo=prisma)

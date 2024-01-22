@@ -14,7 +14,7 @@
 ![TypeScript](https://img.shields.io/badge/typescript-black?style=for-the-badge&logo=typescript)
 ![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)
 ![Rust](https://img.shields.io/badge/rust-black?style=for-the-badge&logo=rust)
-
+![Lua](https://img.shields.io/badge/lua-black?style=for-the-badge&logo=lua)
 
 ## Frameworks & Libraries
 ![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)

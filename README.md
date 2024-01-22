@@ -9,9 +9,24 @@
 
 
 
-## Tech stacks 
+## Tech stacks
+![TypeScript](https://img.shields.io/badge/typescript-black?style=for-the-badge&logo=typescript)
+![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)
+![Express](https://img.shields.io/badge/express-black?style=for-the-badge&logo=express)
+![NestJS](https://img.shields.io/badge/nestjs-black?style=for-the-badge&logo=nestjs)
+![NextJS](https://img.shields.io/badge/nextjs-black?style=for-the-badge&logo=nextjs)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-black?style=for-the-badge&logo=tailwindcss)
+![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)
+![Django](https://img.shields.io/badge/django-black?style=for-the-badge&logo=django)
+![MySQL](https://img.shields.io/badge/mysql-black?style=for-the-badge&logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/postgre-black?style=for-the-badge&logo=postgre)
+![MongoDB](https://img.shields.io/badge/mongodb-black?style=for-the-badge&logo=mongodb)
+![Prisma](https://img.shields.io/badge/prisma-black?style=for-the-badge&logo=prisma)
+![Drizzle](https://img.shields.io/badge/drizzle-black?style=for-the-badge&logo=drizzle)
+![MySQL](https://img.shields.io/badge/mysql-black?style=for-the-badge&logo=mysql)
+ 
 
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![PlanetScale](https://img.shields.io/badge/planetscale-%23000000.svg?style=for-the-badge&logo=planetscale&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
+
 
 
 ## Connect 

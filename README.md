@@ -20,7 +20,7 @@
 ![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)
 ![Express](https://img.shields.io/badge/express-black?style=for-the-badge&logo=express)
 ![NestJS](https://img.shields.io/badge/nestjs-black?style=for-the-badge&logo=nestjs)
-![NextJS](https://img.shields.io/badge/next-black?style=for-the-badge&logo=next)
+![NextJS](https://img.shields.io/badge/next.js-black?style=for-the-badge&logo=next.js)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-black?style=for-the-badge&logo=tailwindcss)
 ![Django](https://img.shields.io/badge/django-black?style=for-the-badge&logo=django)
 

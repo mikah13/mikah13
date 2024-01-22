@@ -26,7 +26,7 @@
 
 ## Databases
 ![MySQL](https://img.shields.io/badge/mysql-black?style=for-the-badge&logo=mysql)
-![PostgreSQL](https://img.shields.io/badge/postgres-black?style=for-the-badge&logo=postgres)
+![PostgreSQL](https://img.shields.io/badge/postgresql-black?style=for-the-badge&logo=postgresql)
 ![MongoDB](https://img.shields.io/badge/mongodb-black?style=for-the-badge&logo=mongodb)
 
 ## Other technologies

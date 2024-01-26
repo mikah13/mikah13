@@ -1,12 +1,7 @@
 ## About me
 - Full-stack Software Developer.
-- **My Interests** : 🌐 Web technologies | ✨ AI | 💡 SaaS ideas
-- **Website**: [mikehoang.dev](https://mikehoang.dev/)
-
-## Favourite quote 
-
-    If You Fall Asleep Now, You Will Dream. If You Study Now, You Will Live Your Dream 
-
+- 🌐 Web technologies | ✨ AI | 💡 SaaS ideas
+- [mikehoang.dev](https://mikehoang.dev/)
 
 
 ## Languages

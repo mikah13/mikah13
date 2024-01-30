@@ -1,6 +1,5 @@
 ## About me
 - Full-stack Software Developer.
-- 🌐 Web technologies | ✨ AI | 💡 SaaS ideas
 - [mikehoang.dev](https://mikehoang.dev/)
 
 

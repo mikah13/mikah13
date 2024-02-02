@@ -29,6 +29,7 @@
 ## Other technologies
 ![Prisma](https://img.shields.io/badge/prisma-black?style=for-the-badge&logo=prisma)
 ![Drizzle](https://img.shields.io/badge/drizzle-black?style=for-the-badge&logo=drizzle)
+![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker)
 
  
 

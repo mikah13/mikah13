@@ -37,6 +37,7 @@
 ## Connect 
 <a href="https://www.linkedin.com/in/mike-hoang-2907/">![LinkedIn](https://img.shields.io/badge/linkedin-black?style=for-the-badge&logo=linkedin)</a>
 <a href="mailto:anhminhhoang13@gmail.com">![GMAIL](https://img.shields.io/badge/gmail-black?style=for-the-badge&logo=gmail)</a>
+<a href="https://twitter.com/FollowMikah13">![Twitter](https://img.shields.io/badge/twitter-black?style=for-the-badge&logo=twitter)</a>
 
 ![](https://raw.githubusercontent.com/mikah13/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 

@@ -23,6 +23,7 @@
 ## Databases
 ![MySQL](https://img.shields.io/badge/mysql-black?style=for-the-badge&logo=mysql)
 ![PostgreSQL](https://img.shields.io/badge/postgresql-black?style=for-the-badge&logo=postgresql)
+![SQLite](https://img.shields.io/badge/sqlite-black?style=for-the-badge&logo=sqlite)
 ![MongoDB](https://img.shields.io/badge/mongodb-black?style=for-the-badge&logo=mongodb)
 ![Redis](https://img.shields.io/badge/redis-black?style=for-the-badge&logo=redis)
 

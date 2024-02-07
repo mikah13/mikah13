@@ -31,6 +31,8 @@
 ![Prisma](https://img.shields.io/badge/prisma-black?style=for-the-badge&logo=prisma)
 ![Drizzle](https://img.shields.io/badge/drizzle-black?style=for-the-badge&logo=drizzle)
 ![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker)
+![Planetscale](https://img.shields.io/badge/planetscale-black?style=for-the-badge&logo=planetscale)
+![Supabase](https://img.shields.io/badge/supabase-black?style=for-the-badge&logo=supabase)
 
  
 

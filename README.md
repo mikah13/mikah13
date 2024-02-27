@@ -13,6 +13,7 @@
 
 ## Frameworks & Libraries
 ![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)
+![Astro](https://img.shields.io/badge/astro-black?style=for-the-badge&logo=astro)
 ![Express](https://img.shields.io/badge/express-black?style=for-the-badge&logo=express)
 ![NestJS](https://img.shields.io/badge/nestjs-black?style=for-the-badge&logo=nestjs)
 ![NextJS](https://img.shields.io/badge/next.js-black?style=for-the-badge&logo=next.js)

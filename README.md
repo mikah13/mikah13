@@ -20,6 +20,7 @@
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-black?style=for-the-badge&logo=tailwindcss)
 ![Django](https://img.shields.io/badge/django-black?style=for-the-badge&logo=django)
 ![FastAPI](https://img.shields.io/badge/fastapi-black?style=for-the-badge&logo=fastapi)
+![Gin](https://img.shields.io/badge/gin-black?style=for-the-badge&logo=gin)
 
 ## Databases
 ![MySQL](https://img.shields.io/badge/mysql-black?style=for-the-badge&logo=mysql)

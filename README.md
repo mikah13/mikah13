@@ -11,13 +11,15 @@
 ![Go](https://img.shields.io/badge/go-black?style=for-the-badge&logo=go)
 ![Lua](https://img.shields.io/badge/lua-black?style=for-the-badge&logo=lua)
 
-## Frameworks & Libraries
+## Front-end Frameworks & Libraries
 ![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)
+![NextJS](https://img.shields.io/badge/next.js-black?style=for-the-badge&logo=next.js)
 ![Astro](https://img.shields.io/badge/astro-black?style=for-the-badge&logo=astro)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-black?style=for-the-badge&logo=tailwindcss)
+
+## Back-end Frameworks
 ![Express](https://img.shields.io/badge/express-black?style=for-the-badge&logo=express)
 ![NestJS](https://img.shields.io/badge/nestjs-black?style=for-the-badge&logo=nestjs)
-![NextJS](https://img.shields.io/badge/next.js-black?style=for-the-badge&logo=next.js)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-black?style=for-the-badge&logo=tailwindcss)
 ![Django](https://img.shields.io/badge/django-black?style=for-the-badge&logo=django)
 ![FastAPI](https://img.shields.io/badge/fastapi-black?style=for-the-badge&logo=fastapi)
 ![Gin](https://img.shields.io/badge/gin-black?style=for-the-badge&logo=gin)

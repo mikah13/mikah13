@@ -35,8 +35,8 @@
 ![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker)
 ![Planetscale](https://img.shields.io/badge/planetscale-black?style=for-the-badge&logo=planetscale)
 ![Supabase](https://img.shields.io/badge/supabase-black?style=for-the-badge&logo=supabase)
+![Azure](https://img.shields.io/badge/azure-black?style=for-the-badge&logo=azure)
 
- 
 
 
 

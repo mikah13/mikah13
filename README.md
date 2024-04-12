@@ -32,12 +32,18 @@
 ![Redis](https://img.shields.io/badge/redis-black?style=for-the-badge&logo=redis)
 ![Dexie](https://img.shields.io/badge/dexie-black?style=for-the-badge&logo=dexie)
 
+## Infrastructures
+![AWS](https://img.shields.io/badge/AWS-black.svg?style=for-the-badge&logo=amazon-aws&logoColor=black)
+![Azure](https://img.shields.io/badge/azure-black.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+
 ## Other technologies
 ![Prisma](https://img.shields.io/badge/prisma-black?style=for-the-badge&logo=prisma)
 ![Drizzle](https://img.shields.io/badge/drizzle-black?style=for-the-badge&logo=drizzle)
 ![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker)
 ![Planetscale](https://img.shields.io/badge/planetscale-black?style=for-the-badge&logo=planetscale)
 ![Supabase](https://img.shields.io/badge/supabase-black?style=for-the-badge&logo=supabase)
+
+
 
 
 ## Connect 

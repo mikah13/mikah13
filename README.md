@@ -33,7 +33,7 @@
 ![Dexie](https://img.shields.io/badge/dexie-black?style=for-the-badge&logo=dexie)
 
 ## Infrastructures
-![AWS](https://img.shields.io/badge/AWS-black.svg?style=for-the-badge&logo=amazon-aws&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-black.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/azure-black.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
 ## Other technologies

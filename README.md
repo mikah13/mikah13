@@ -30,6 +30,7 @@
 ![SQLite](https://img.shields.io/badge/sqlite-black?style=for-the-badge&logo=sqlite)
 ![MongoDB](https://img.shields.io/badge/mongodb-black?style=for-the-badge&logo=mongodb)
 ![Redis](https://img.shields.io/badge/redis-black?style=for-the-badge&logo=redis)
+![Dexie](https://img.shields.io/badge/dexie-black?style=for-the-badge&logo=dexie)
 
 ## Other technologies
 ![Prisma](https://img.shields.io/badge/prisma-black?style=for-the-badge&logo=prisma)

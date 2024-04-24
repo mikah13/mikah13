@@ -6,9 +6,9 @@
 ## Languages
 ![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/typescript-black?style=for-the-badge&logo=typescript)
+![Go](https://img.shields.io/badge/go-black?style=for-the-badge&logo=go)
 ![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)
 ![Rust](https://img.shields.io/badge/rust-black?style=for-the-badge&logo=rust)
-![Go](https://img.shields.io/badge/go-black?style=for-the-badge&logo=go)
 ![Lua](https://img.shields.io/badge/lua-black?style=for-the-badge&logo=lua)
 
 ## Front-end Frameworks & Libraries

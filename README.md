@@ -19,6 +19,7 @@
 
 ## Back-end Frameworks
 ![Express](https://img.shields.io/badge/express-black?style=for-the-badge&logo=express)
+![Hono](https://img.shields.io/badge/hono-black?style=for-the-badge&logo=hono)
 ![NestJS](https://img.shields.io/badge/nestjs-black?style=for-the-badge&logo=nestjs)
 ![Django](https://img.shields.io/badge/django-black?style=for-the-badge&logo=django)
 ![FastAPI](https://img.shields.io/badge/fastapi-black?style=for-the-badge&logo=fastapi)

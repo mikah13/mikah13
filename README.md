@@ -1,14 +1,3 @@
-## About me
-- Full-stack Software Developer.
-- [mikah13.dev](https://mikah13.dev/)
+<img src="./molecule.svg?v=1" alt="Rotating ASCII caffeine molecule beside my tech stack: TypeScript, Go, Rust, Python, Lua, React, Next.js, TanStack, Fastify, Hono, Temporal, RabbitMQ, PostgreSQL, Elasticsearch, AWS, Azure, Cloudflare, Terraform, WebAssembly and WebGL2" width="830">
 
-<p align="center">
-  <img src="./molecule.svg?v=1" alt="Rotating ASCII caffeine molecule beside my tech stack: TypeScript, Go, Rust, Python, Lua, React, Next.js, TanStack, Fastify, Hono, Temporal, RabbitMQ, PostgreSQL, Elasticsearch, AWS, Azure, Cloudflare, Terraform, WebAssembly and WebGL2" width="830">
-</p>
-
-## Connect
-<a href="https://www.linkedin.com/in/mike-hoang-2907/">![LinkedIn](https://img.shields.io/badge/linkedin-black?style=for-the-badge&logo=linkedin)</a>
-<a href="mailto:anhminhhoang13@gmail.com">![GMAIL](https://img.shields.io/badge/gmail-black?style=for-the-badge&logo=gmail)</a>
-<a href="https://twitter.com/FollowMikah13">![Twitter](https://img.shields.io/badge/twitter-black?style=for-the-badge&logo=twitter)</a>
-
-![](https://raw.githubusercontent.com/mikah13/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+<a href="https://www.linkedin.com/in/mike-hoang-2907/"><img src="./contact-linkedin.svg?v=1" width="170" alt="LinkedIn"></a><a href="mailto:anhminhhoang13@gmail.com"><img src="./contact-email.svg?v=1" width="170" alt="Email"></a><a href="https://twitter.com/FollowMikah13"><img src="./contact-x.svg?v=1" width="170" alt="X"></a><a href="https://mikah13.dev/"><img src="./contact-website.svg?v=1" width="170" alt="Website"></a>

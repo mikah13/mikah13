@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="210" viewBox="0 0 200 210" role="img" aria-label="Website: mikah13.dev">
+<style>text{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace}</style>
+<rect x="6" y="6" width="188" height="198" rx="10" fill="#0d1117" stroke="#30363d"/>
+<rect x="6" y="6" width="188" height="3" rx="1.5" fill="#ffa657"/>
+<text x="18" y="30" font-size="13" fill="#8b949e">74</text>
+<text x="182" y="30" font-size="11" fill="#6e7681" text-anchor="end">183.84</text>
+<circle cx="100" cy="100" r="50" fill="none" stroke="#ffa657" stroke-opacity=".45" stroke-width="1.5" stroke-dasharray="1 5" stroke-linecap="round"/>
+<g><circle cx="150.0" cy="100.0" r="3.2" fill="#ffa657"/><circle cx="125.0" cy="143.3" r="3.2" fill="#ffa657"/><circle cx="75.0" cy="143.3" r="3.2" fill="#ffa657"/><circle cx="50.0" cy="100.0" r="3.2" fill="#ffa657"/><circle cx="75.0" cy="56.7" r="3.2" fill="#ffa657"/><circle cx="125.0" cy="56.7" r="3.2" fill="#ffa657"/><animateTransform attributeName="transform" type="rotate" from="0 100 100" to="360 100 100" dur="14s" repeatCount="indefinite"/></g>
+<text x="100" y="117" font-size="48" font-weight="bold" fill="#ffa657" text-anchor="middle">W</text>
+<text x="100" y="172" font-size="14" font-weight="bold" fill="#e6edf3" text-anchor="middle">Website</text>
+<text x="100" y="190" font-size="10.5" fill="#8b949e" text-anchor="middle">mikah13.dev</text>
+</svg>

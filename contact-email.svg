@@ -6,7 +6,7 @@
 <text x="182" y="30" font-size="11" fill="#6e7681" text-anchor="end">gmail.com</text>
 <circle cx="100" cy="100" r="50" fill="none" stroke="#ff7b72" stroke-opacity=".45" stroke-width="1.5" stroke-dasharray="1 5" stroke-linecap="round"/>
 <g><circle cx="150.0" cy="100.0" r="3.2" fill="#ff7b72"/><circle cx="131.2" cy="139.1" r="3.2" fill="#ff7b72"/><circle cx="88.9" cy="148.7" r="3.2" fill="#ff7b72"/><circle cx="55.0" cy="121.7" r="3.2" fill="#ff7b72"/><circle cx="55.0" cy="78.3" r="3.2" fill="#ff7b72"/><circle cx="88.9" cy="51.3" r="3.2" fill="#ff7b72"/><circle cx="131.2" cy="60.9" r="3.2" fill="#ff7b72"/><animateTransform attributeName="transform" type="rotate" from="0 100 100" to="360 100 100" dur="14s" repeatCount="indefinite"/></g>
-<text x="100" y="117" font-size="48" font-weight="bold" fill="#ff7b72" text-anchor="middle">EM</text>
+<text x="100" y="117" font-size="48" font-weight="bold" fill="#ff7b72" text-anchor="middle">Em</text>
 <text x="100" y="172" font-size="14" font-weight="bold" fill="#e6edf3" text-anchor="middle">Email</text>
 <text x="100" y="190" font-size="10.5" fill="#8b949e" text-anchor="middle">anhminhhoang13@gmail.com</text>
 </svg>

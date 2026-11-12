@@ -6,7 +6,7 @@
 <text x="182" y="30" font-size="11" fill="#6e7681" text-anchor="end">linkedin.com</text>
 <circle cx="100" cy="100" r="50" fill="none" stroke="#58a6ff" stroke-opacity=".45" stroke-width="1.5" stroke-dasharray="1 5" stroke-linecap="round"/>
 <g><circle cx="150.0" cy="100.0" r="3.2" fill="#58a6ff"/><animateTransform attributeName="transform" type="rotate" from="0 100 100" to="360 100 100" dur="14s" repeatCount="indefinite"/></g>
-<text x="100" y="117" font-size="48" font-weight="bold" fill="#58a6ff" text-anchor="middle">LI</text>
+<text x="100" y="117" font-size="48" font-weight="bold" fill="#58a6ff" text-anchor="middle">Li</text>
 <text x="100" y="172" font-size="14" font-weight="bold" fill="#e6edf3" text-anchor="middle">LinkedIn</text>
 <text x="100" y="190" font-size="10.5" fill="#8b949e" text-anchor="middle">in/mike-hoang-2907</text>
 </svg>
